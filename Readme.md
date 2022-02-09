@@ -3,4 +3,4 @@ Código desenvolvido no curso Uma visão completa do ASP.NET MVC da Balta.io min
 
 # Adicionais
 - Código do curso adaptado para .Net 6
-- Adicionado design patterna UnitOfWork
+- Adicionado design pattern UnitOfWork
